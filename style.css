@@ -1,0 +1,40 @@
+/*Cell Spacing*/
+table {
+    border-spacing: 5px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+/*Border*/
+table, th, td{
+    border: 1px solid #800000
+  }
+/*Cell Padding*/
+th, td {
+    padding: 5px;
+    width: 100px;
+  }
+#schoolname{
+    color: #800000;
+    text-align: center;
+  }
+#classinfo{
+    font-weight: 800;
+    color: black;
+    text-align: center;
+  }
+.TOTAL-score{
+  font-weight: 800;
+  text-align: center;
+  background-color: #ADD8E6;
+}
+.Rukayat{
+  background-color: #fffdd0;
+}
+.name{
+  font-weight: 800;
+  font-family: cursive;
+  font-style: italic;
+}
+p{
+  text-align: center;
+}
